@@ -45,7 +45,7 @@ pub mod tokio;
 pub(crate) mod date;
 pub(crate) mod entry;
 pub(crate) mod file;
-pub(crate) mod spec;
+pub mod spec;
 pub(crate) mod string;
 pub(crate) mod utils;
 
